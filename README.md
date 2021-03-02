@@ -1,6 +1,16 @@
 # JavaProject_TrvelInBusan
 JavaProject1 using public database, weather data, and kakao map.
 
+# 첫번째 JAVA 팀프로젝트 (팀원4명, 기간 : 2주) 
+
+<기능소개>
+*
+*
+*
+<부족한 점 및 느낀점>
+*
+*
+*
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73155839/109643851-20c5a000-7b98-11eb-8ae2-57c53fafe1c7.png">
 <img src="https://user-images.githubusercontent.com/73155839/109643854-215e3680-7b98-11eb-90d3-a85280ce3c97.png">
