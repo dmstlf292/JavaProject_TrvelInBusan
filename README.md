@@ -27,12 +27,18 @@ JavaProject1 using public database, weather data, and kakao map.
 <img src="https://user-images.githubusercontent.com/73155839/109643863-24592700-7b98-11eb-986b-17811a0c3f0a.png">
 <img src="https://user-images.githubusercontent.com/73155839/109643850-202d0980-7b98-11eb-89d4-40e69fb928dc.png">
 <img src="https://user-images.githubusercontent.com/73155839/109643864-24592700-7b98-11eb-9d2a-d72e5c325a16.png">
+<img src="https://user-images.githubusercontent.com/73155839/109648302-ce877d80-7b9d-11eb-81b2-035247a0f076.png">
+<img src="https://user-images.githubusercontent.com/73155839/109648305-cfb8aa80-7b9d-11eb-9170-d5720f06a237.png">
+<img src="https://user-images.githubusercontent.com/73155839/109648309-d0514100-7b9d-11eb-8577-207e3071cd22.png">
+<img src="https://user-images.githubusercontent.com/73155839/109648302-ce877d80-7b9d-11eb-81b2-035247a0f076.png">
+<img src="https://user-images.githubusercontent.com/73155839/109648305-cfb8aa80-7b9d-11eb-9170-d5720f06a237.png">
+<img src="https://user-images.githubusercontent.com/73155839/109648309-d0514100-7b9d-11eb-8577-207e3071cd22.png">
 </p>
 
 
 # 느낀점 및 아쉬운 점
-
-* 깃허브를 이용하여 진행하지 않은점
+* 웹페이지에 적용하기 더 적합했던 프로젝트여서 순수 자바만으로 나타내지 못한 프로젝트였다. 
+* 깃허브를 이용하여 진행하지 않은점, 깃허브가 협업시 중요하는 점
 * 레파지토리를 폴더별로 정리를 하지 못한 점
 * 이 프로젝트는 미완성된 프로젝트이다. 
   팀원들 모두 애썼지만, 내가 맡았던 파트는 다른 팀원들이 다 완성을 하고 진행이 가능했던 파트라 팀원들과 다같이 메인파트의 기능을 완성하고자 노력했다. 
