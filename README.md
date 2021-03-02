@@ -15,7 +15,7 @@ JavaProject1 using public database, weather data, and kakao map.
 * 2주동안 메인파트였던 각 부산 관광지 소개하는 파트 기능 개발 부분쪽 (날씨rss 파트, 관광지 db출력) 속도가 더뎠고, 그로인해 내가 맡은 파트는 frontend 부분만 구현할 수 밖에 없어 실 기능을 구현하지 못하였다. 
 * 레파지토리가 파트별로 파일이 잘 정리되지 않은점, 변수명을 서로 다 다르게 선언하여 통일하는데 시간이 걸렸다. 
 
-# 소개
+# 기능구현
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73155839/109643851-20c5a000-7b98-11eb-8ae2-57c53fafe1c7.png">
 <img src="https://user-images.githubusercontent.com/73155839/109643854-215e3680-7b98-11eb-90d3-a85280ce3c97.png">
