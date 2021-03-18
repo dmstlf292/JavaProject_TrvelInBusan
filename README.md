@@ -6,7 +6,7 @@ JavaProject1 using public database, weather data, and kakao map.
 * 맡은파트 : 팀장, 여행 mate 찾아주도록 자기소개 및  친구찾기 기능 구현
 
 # 개발언어 및 환경
-* 
+* Java & Oracle
 
 
 # 기능소개
