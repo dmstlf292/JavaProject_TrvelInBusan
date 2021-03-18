@@ -2,7 +2,8 @@
 JavaProject1 using public database, weather data, and kakao map.
 
 # JAVA & ORACLE 팀프로젝트 
-#팀원4명, 기간 : 2주, 맡은파트 : 팀장, 여행 mate 찾아주도록 자기소개 및  친구찾기 기능 구현
+* 팀원4명, 기간 : 2주
+* 맡은파트 : 팀장, 여행 mate 찾아주도록 자기소개 및  친구찾기 기능 구현
 
 # 기능소개
 * 부산광역시 관광지 정적 DB를 활용, 무한루프버튼 기능을 추가함으로써 부산관광지 소개
